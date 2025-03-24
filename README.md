@@ -1,4 +1,4 @@
-hi! i'm carter kawaguchi
+## **hi! i'm carter kawaguchi (he/him)**
 
 i'm a designer, developer, and innovator.
 currently studying computational linguistics, business, and design at USC ✌️
